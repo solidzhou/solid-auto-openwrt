@@ -36,7 +36,7 @@ env:
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
   UPLOAD_WETRANSFER: false
-  TZ: Asia/Hong_Kong
+  TZ: Asia/Shanghai
 
 jobs:
   build:
